@@ -1,0 +1,16 @@
+{
+  "name": "nikhil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^0.1.3",
+    "hbs": "^4.0.1",
+    "multer": "^1.3.0"
+  }
+}
